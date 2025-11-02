@@ -167,7 +167,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Ghaith Hasan]**
 - GitHub: [@Ghaithehasan](https://github.com/Ghaithehasan)
 - LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ghaith-hasan-82b227381))
 
