@@ -169,7 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **[Ghaith Hasan]**
 - GitHub: [@Ghaithehasan](https://github.com/Ghaithehasan)
-- LinkedIn: [Ghaith Hasan]([https://www.linkedin.com/in/ghaith-hasan-82b227381])
+- LinkedIn: [@Ghaithe Hasan]([https://www.linkedin.com/in/ghaith-hasan-82b227381])
 
 ## 🎓 Learning Resources
 
